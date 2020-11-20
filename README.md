@@ -1,0 +1,2 @@
+# Projet_long_analaysisProteinTrajectories
+Using dimensionality reduction to analyze protein trajectories
