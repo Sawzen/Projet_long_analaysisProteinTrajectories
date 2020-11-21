@@ -10,7 +10,15 @@ from trajectories and process them using the different approaches proposed in th
 The methods will be compared on a few examples provided. 
 
 package needed :
-=> mdanalysis  
-in the terminal tape this following command : pip install --upgrade MDAnalysis
+=> mdtraj
+conda environment : 
+1) conda create --name mdtenv
+2) conda activate mdtenv
+3) conda install -c conda-forge mdtraj
 
+Installation of juppyter lab in the env:
+4)conda install -c conda-forge jupyterlab
+5) run with : jupyter-lab or jupyter lab
 
+Installation of sklearn
+6)conda install -c intel scikit-learn
